@@ -1,4 +1,4 @@
-from demo.Detail import CharDeal
+from Detail import CharDeal
 import sys
 
 
