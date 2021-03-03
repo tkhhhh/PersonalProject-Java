@@ -43,7 +43,7 @@ class CharDeal(object):
     def IsLetter(self,key):
         if (key <= "Z" and key >= "A") or (key <= "z" and key >= "a"):
             return True
-        return  False
+        return False
 
     def WordCaculate(self,wordlist):
         dic = {}
